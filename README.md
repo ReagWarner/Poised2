@@ -1,4 +1,4 @@
-# Poised2
+# Poised Project Managament System, demonstrating Object Orientated Programming (OOP) and data science in Java.
 
 A project management system for a construction company using a file writing sytem that uses mySql for the database:
 
